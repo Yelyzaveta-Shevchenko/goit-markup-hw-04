@@ -462,6 +462,9 @@ padding: 32px 0;
     color: #fff;
     margin-bottom: 16px;
 }
+.ft-soc-list {
+    gap: 16px;
+}
  .ft-soc-links:hover,
  .ft-soc-links:focus {
     background-color: #31d0aa;
